@@ -2,7 +2,8 @@ import numpy as np
 
 # fahrenheit to celsius
 def fToC(f):
-    return (f - 32) * 5/9
+    c = (f - 32) * 5/9
+    return c
 
 # celsius to fahrenheit 
 def cToF(c):
