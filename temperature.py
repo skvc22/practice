@@ -8,3 +8,8 @@ def fToC(f):
 # celsius to fahrenheit 
 def cToF(c):
     return c * 9/5 + 32
+
+
+# Abritrary A to B replacement
+def AToB(A):
+    return A * 9/5 + 32
